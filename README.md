@@ -1,4 +1,6 @@
 # Covid-19-Image-Classification
+Dataset from [COVID-19 Radiography Dataset](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database) on Kaggle
+
 Image classification of Chest X Rays in one of three classes: Normal, Viral Pneumonia, COVID-19
 
 Using PyTorch to create and train a ResNet-18 model and apply it to a Chest X-Ray Radiography Dataset. I have accomplished by completing each task in the project:
